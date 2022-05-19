@@ -804,7 +804,6 @@ library
              hexpat ==0.20.13,
              hex-text ==0.1.0.6,
              hformat ==0.3.3.1,
-             hfsevents ==0.1.6,
              hgeometry ==0.14,
              hgeometry-combinatorial ==0.14,
              hidapi ==0.1.7,
